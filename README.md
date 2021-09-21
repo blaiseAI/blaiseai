@@ -24,6 +24,9 @@ My current side project is [Covid19 Vaccination Tracker](https://covid-vaccinati
 ### 📕Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Built a Covid-19 Vaccination Tracker](https://dev.to/blaiseai/built-a-covid-19-vaccination-tracker-240i)
+- [Understanding Strings in JS](https://seblaise.dev/understanding-strings)
+- [Introduction to Gridsome](https://seblaise.dev/introduction-to-gridsome)
+- [How to Get Better At Coding](https://seblaise.dev/how-to-get-better-at-coding)
 <!-- BLOG-POST-LIST:END -->
 -------
 📊 **This week I spent my time on**
